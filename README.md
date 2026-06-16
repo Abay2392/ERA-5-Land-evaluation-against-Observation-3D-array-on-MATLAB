@@ -41,3 +41,4 @@ Dr. Tagele Mossie Aschale
 
 ## Citation
 If you use this code in your research, please cite the associated publication or acknowledge this repository.
+The full article found :https://doi.org/10.1016/j.hydrch.2026.100016
